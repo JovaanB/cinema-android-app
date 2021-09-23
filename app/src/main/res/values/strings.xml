@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cinema  Reviews</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Connexion</string>
+    <string name="second_fragment_label">Cinema</string>
+
+    <string name="login">Se connecter</string>
+    <string name="send">Envoyer</string>
+    <string name="form_title">Critique</string>
+    <string name="form_film">Titre du film</string>
+    <string name="form_date">Date</string>
+    <string name="heure">Heure</string>
+    <string name="form_scenario">Scenario</string>
+    <string name="form_realisation">Realisation</string>
+    <string name="form_musique">Musique</string>
+    <string name="form_critique">Critique</string>
+    <string name="connection_succeed">Connexion réussie</string>
+    <string name="error_authentication_canceled">Connexion annulée</string>
+    <string name="error_no_internet">Pas de connexion internet</string>
+    <string name="error_unknown_error">Erreur non connue</string>
+</resources>
